@@ -8,6 +8,6 @@ This beginner-friendly course includes hands-on projects, assessments, and provi
 
 Course Completion Certificate Link: https://coursera.org/share/a4005a5901ae67aea63f31ef2edb322b
 
-(In The Notebook All The Graded Jupyter notebook related to this course)
+(In This Github Repo All The Graded Jupyter notebook related to this course)
 
 <img width="693" alt="image" src="https://github.com/user-attachments/assets/386fd5ac-f46f-4b4a-a93c-ab9e7db2db19">
